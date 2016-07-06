@@ -1,0 +1,10 @@
+.padding-top{
+    padding-top: 20px;
+}
+.padding-bottom{
+    padding-bottom: 20px;
+}
+.card-title a{
+    text-decoration: none;
+    color: lightslategrey;
+}
